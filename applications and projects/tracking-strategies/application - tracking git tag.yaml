@@ -10,7 +10,7 @@ spec:
   project: default
   source: 
     path: guestbook
-    repoURL: "https://github.com/mabusaa/argocd-example-apps.git"
+    repoURL: "https://github.com/Novman47/argo_Private.git"
     targetRevision: v2
     directory:
       recurse: true
